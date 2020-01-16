@@ -1,2 +1,2 @@
-# Heroku_Testing_Pet_Pals_App
+# Heroku Testing Pet Pals App
 Test on using Heroku database server.
